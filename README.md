@@ -10,7 +10,8 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300">
+
 
 - 🌱 Currently learning Python, DSA and Machine Learning  
 - 💻 Interested in AI and Open Source  
@@ -45,19 +46,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WHENKEY2007&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WHENKEY2007&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
+## 🔥 GitHub Stats
 
 <p align="center">
 
@@ -73,22 +62,6 @@
 
 ---
 
-## 💻 Coding Animation
-
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500">
-</p>
-
----
-
-## 🧠 Matrix Animation
-
-<p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="500">
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -99,13 +72,13 @@
 
 &nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/" target="_blank">
+<a href="https://www.linkedin.com/in/sri-venkatesh-nurukurthi-709067333/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 &nbsp;&nbsp;
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:srivenkateshnurukurthi@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -121,4 +94,4 @@
 
 ---
 
-<h3 align="center">🌌 “Exploring technology one commit at a time.” 🌌</h3>
+<h3 align="center"> “Exploring technology one commit at a time.” </h3>
