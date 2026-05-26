@@ -13,18 +13,23 @@
 
 ## 🚀 About Me
 
-<p align="left">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
-<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
+- 🧠 AIML student exploring AI and modern technologies  
+&nbsp;  
 
 - 🌱 Currently learning Python, DSA and Machine Learning  
-- 💻 Interested in AI and Open Source  
-- 🎯 Goal: Become job ready in AIML  
-- ⚡ Fun fact: I fix bugs by creating new ones  
+&nbsp;  
 
-</p>
+- 🚀 Passionate about coding, open source and building projects  
+&nbsp;  
 
-<br><br><br><br><br>
+- 🎯 Goal: Become industry-ready and grow as a developer  
+&nbsp;  
+
+- ⚡ Fun fact: Half my bugs disappear after restarting VS Code 😭  
+
+<br><br><br><br><br><br>
 
 ---
 
