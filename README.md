@@ -2,14 +2,22 @@
 
 <h3 align="center">AIML Student | Python Learner | Open Source Enthusiast</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+Developer;AIML+Student;DSA+Learner;Open+Source+Contributor;Future+ML+Engineer" alt="Typing SVG" />
+</p>
+
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently learning Python, DSA and Machine Learning
-- 💻 Interested in AI and Open Source
-- 🎯 Goal: Become job ready in AIML
-- ⚡ Fun fact: I fix bugs by creating new ones
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+- 🌱 Currently learning Python, DSA and Machine Learning  
+- 💻 Interested in AI and Open Source  
+- 🎯 Goal: Become job ready in AIML  
+- ⚡ Fun fact: I fix bugs by creating new ones  
+
+<br><br>
 
 ---
 
@@ -39,22 +47,78 @@
 
 ## 📊 GitHub Stats
 
-![Whenkey's GitHub stats](https://github-readme-stats.vercel.app/api?username=WHENKEY2007&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WHENKEY2007&layout=compact&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WHENKEY2007&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WHENKEY2007&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=WHENKEY2007&theme=tokyonight)
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=WHENKEY2007&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
 
 ## 📈 Contribution Graph
 
 [![Whenkey's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WHENKEY2007&theme=tokyo-night)](https://github.com/WHENKEY2007)
 
-## 📈 Matrix animation 
+---
+
+## 💻 Coding Animation
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500">
+</p>
+
+---
+
+## 🧠 Matrix Animation
 
 <p align="center">
   <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="500">
 </p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  
+<a href="https://github.com/WHENKEY2007" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=WHENKEY2007&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+
+</p>
+
+---
+
+<h3 align="center">🌌 “Exploring technology one commit at a time.” 🌌</h3>
