@@ -100,6 +100,5 @@
 
 </p>
 
----
 
 <h3 align="center"> “Exploring technology one commit at a time.” </h3>
