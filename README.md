@@ -1,5 +1,8 @@
-<h1 align="center">Hey 👋, I'm Whenkey</h1>
-
+<h1 align="center">
+  Hey 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+  , I'm Sri Venkatesh
+</h1>
 <h3 align="center">AIML Student | Python Learner | Open Source Enthusiast</h3>
 
 <p align="center">
@@ -10,15 +13,18 @@
 
 ## 🚀 About Me
 
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300">
+<p align="left">
 
+<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
 
 - 🌱 Currently learning Python, DSA and Machine Learning  
 - 💻 Interested in AI and Open Source  
 - 🎯 Goal: Become job ready in AIML  
 - ⚡ Fun fact: I fix bugs by creating new ones  
 
-<br><br>
+</p>
+
+<br><br><br><br><br>
 
 ---
 
@@ -65,25 +71,22 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  
-<a href="https://github.com/WHENKEY2007" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
-&nbsp;&nbsp;
+<a href="https://github.com/WHENKEY2007" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/sri-venkatesh-nurukurthi-709067333/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:srivenkateshnurukurthi@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
-
 ---
 
 <p align="center">
