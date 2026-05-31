@@ -15,7 +15,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
-- 🧠 AIML student exploring AI and modern technologies  
+- 🧠 AIML student exploring AI and modern technologies
 &nbsp;  
 
 - 🌱 Currently learning Python, DSA and Machine Learning  
