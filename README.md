@@ -69,7 +69,7 @@
 
 ## 📈 Contribution Graph
 
-[![Whenkey's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WHENKEY2007&theme=gruvbox)](https://github.com/WHENKEY2007)
+[![Whenkey's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WHENKEY2007&theme=github-dark)](https://github.com/WHENKEY2007)
 
 ---
 
