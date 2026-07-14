@@ -71,7 +71,7 @@
 [![WHENKEY2007's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=WHENKEY2007&theme=github-dark)](https://github.com/WHENKEY2007)
 ---
 
-## 🌐 Connect With Me
+## 🌐 CONNECT WITH ME
 
 <p align="center">
 
