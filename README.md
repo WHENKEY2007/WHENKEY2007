@@ -18,7 +18,7 @@
 - 🧠 AIML student exploring AI and modern technologies
 &nbsp;  
 
-- 🌱 Currently learning Python, DSA and Machine Learning  
+- 🌱 Currently learning Python, DSA and Machine Learning
 &nbsp;  
 
 - 🚀 Passionate about coding, open source and building projects  
