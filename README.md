@@ -1,102 +1,186 @@
-<h1 align="center">
-  Hey 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
-  , I'm Sri Venkatesh
-</h1>
-<h3 align="center">AIML Student | Python Learner | Open Source Enthusiast</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+Developer;AIML+Student;DSA+Learner;Open+Source+Contributor;Future+ML+Engineer" alt="Typing SVG" />
+<div align="center">
+
+# Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Sri Venkatesh
+
+### AI & Machine Learning Student • Full Stack Developer • Open Source Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+%26+Machine+Learning;Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Python+%7C+Java+%7C+C%2B%2B;Hackathon+Builder;Always+Learning+New+Things" />
+
+<br><br>
+
+<img src="assets/fastfetch.png" width="900"/>
+
+</div>
+
+---
+
+# 🚀 About Me
+
+<img align="right" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+
+🎓 **B.Tech Artificial Intelligence & Machine Learning Student**
+
+💻 Passionate about AI, Machine Learning and Full Stack Development
+
+🌱 Currently Learning
+
+- Machine Learning
+- Deep Learning
+- Spring Boot
+- System Design
+- Advanced DSA
+
+🏆 Active Hackathon Participant
+
+🚀 Building AI-powered real-world applications
+
+🎯 **Goal**
+
+Become a Software Engineer specializing in AI & Full Stack Development.
+
+⚡ **Fun Fact**
+
+> Half of my bugs disappear after restarting VS Code 😭
+
+<br><br><br>
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 Featured Projects
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+## 🎵 True-Tone
+AI-powered music recommendation platform built using React, Node.js, Express, MongoDB and Gemini API.
 
-- 🧠 AIML student exploring AI and modern technologies
-&nbsp;  
-
-- 🌱 Currently learning Python, DSA and Machine Learning
-&nbsp;  
-
-- 🚀 Passionate about coding, open source and building projects  
-&nbsp;  
-
-- 🎯 Goal: Become industry-ready and grow as a developer  
-&nbsp;  
-
-- ⚡ Fun fact: Half my bugs disappear after restarting VS Code 😭  
-
-<br><br><br><br><br><br>
+🔗 https://github.com/WHENKEY2007/True-Tone
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛡 FraudCoreML
+Machine Learning based Fraud Detection System.
 
-<p align="left">
+**Tech:** Python • Scikit-learn • Pandas
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
-&nbsp;
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-&nbsp;
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+---
 
+## 🌍 AI Smart City Travel Assistant
+NLP-powered travel assistant using predictive analytics.
+
+---
+
+## 🎓 Course Recommendation System
+
+Recommendation System using C++ and PostgreSQL.
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=WHENKEY2007&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WHENKEY2007&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=WHENKEY2007&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🔥 GitHub Stats
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WHENKEY2007&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=WHENKEY2007&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=WHENKEY2007&theme=tokyo-night"/>
+</p>
 
 ---
 
-## 📈 Contribution Graph
+# 📚 Currently Learning
 
-[![WHENKEY2007's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=WHENKEY2007&theme=github-dark)](https://github.com/WHENKEY2007)
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Spring Boot
+- Data Structures & Algorithms
+
 ---
 
-## 🌐 CONNECT WITH ME
+# 📜 Certifications
+
+- 🏅 Red Hat Certified System Administrator (RHCSA)
+- 🏅 MongoDB CRUD Operations
+- 🏅 Artificial Intelligence Fundamentals
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://github.com/WHENKEY2007" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/WHENKEY2007">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/sri-venkatesh-nurukurthi-709067333/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/sri-venkatesh-nurukurthi-709067333/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
-&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:srivenkateshnurukurthi@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
+
 ---
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=WHENKEY2007&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-
+<img src="https://komarev.com/ghpvc/?username=WHENKEY2007&label=Profile+Views&color=58A6FF&style=flat"/>
 </p>
 
+<h3 align="center">
 
-<h3 align="center"> “Exploring technology one commit at a time.” </h3>
+💙 Building intelligent solutions, one commit at a time.
+
+</h3>
