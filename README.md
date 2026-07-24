@@ -9,7 +9,9 @@
 
 <br><br>
 
-<img src="assets/fastfetch.png" width="900"/>
+<p align="center">
+  <img src="./assets/ascii.png" width="700" alt="ASCII Portrait">
+</p>
 
 </div>
 
