@@ -43,7 +43,7 @@ WHENKEY2007 / README.md ──────────────────�
  @@@@@@@@        :  @@@@@@@@@@@@@@@@@@@@@@@@@@@     
 :@@@@@@@@           @@@@@@@@@@@@@@@@@@@@@@@@@@@@    - Highlights -------------------------------------------------------------
 @@@@@@@@      ..    @@@@@@@@@@@@@@@@@@@@@@@@@@@@    . Certifications: .............. RHCSA, MongoDB CRUD, AI Fundamentals
-@@@@@@@S      ... .@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    . Key Projects: ................. True-Tone, FraudCoreML, AI Travel Assistant
+@@@@@@@S      ... .@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    . Key Projects: ................. True-Tone, FraudCoreML, Lens of Judgement
 @@@@@@@     ..  %@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    . Quote: ..................... "Half of my bugs disappear after restarting"
 @@@@@@. :..- :@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    
 @@@@@@S#*##**@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    
@@ -126,13 +126,13 @@ WHENKEY2007 / README.md ──────────────────�
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🌍 AI Smart City Travel Assistant</h3>
+      <h3 align="center">⚖️ Lens of Judgement</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/NLP-FF6F00?style=flat-square" />
-        <img src="https://img.shields.io/badge/Predictive_Analytics-007ACC?style=flat-square" />
+        <img src="https://img.shields.io/badge/AI--ML-FF6F00?style=flat-square" />
+        <img src="https://img.shields.io/badge/Deep_Learning-007ACC?style=flat-square" />
       </p>
-      <p>NLP-powered intelligent travel assistant providing predictive route analytics and tailored city navigation for smart urban travel.</p>
+      <p>AI-powered intelligent evaluation platform designed to analyze patterns, assess complex datasets, and deliver automated decision insights.</p>
       <p align="center">
         <a href="https://github.com/WHENKEY2007"><b>🔗 View Repository »</b></a>
       </p>
