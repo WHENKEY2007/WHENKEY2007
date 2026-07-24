@@ -87,7 +87,7 @@ WHENKEY2007 / README.md ──────────────────�
 
 ### 🛠️ Tools & Environments
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,redhat,linux" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,redhat,linux" alt="Tools" />
 </p>
 
 </div>
@@ -159,15 +159,6 @@ WHENKEY2007 / README.md ──────────────────�
 - 🏅 **MongoDB CRUD Operations Certification**
 - 🏅 **Artificial Intelligence Fundamentals**
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WHENKEY2007&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
-
----
 
 ## 📊 GitHub Statistics & Contribution Heatmap
 
