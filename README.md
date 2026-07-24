@@ -169,21 +169,33 @@ WHENKEY2007 / README.md ──────────────────�
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Statistics & Contribution Heatmap
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=WHENKEY2007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WHENKEY2007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=WHENKEY2007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WHENKEY2007&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
+</p>
+
+<br>
+
+### 🔥 365-Day Contribution Heatmap
+
+<p align="center">
+  <a href="https://github.com/WHENKEY2007">
+    <img src="https://ghchart.rshah.org/58a6ff/WHENKEY2007" alt="WHENKEY2007's GitHub Contribution Heatmap" width="100%" />
+  </a>
+</p>
+
+<br>
+
+### 📈 Activity Wave & Streak Analysis
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WHENKEY2007&theme=tokyo-night&area=true&hide_border=true&radius=12" alt="Activity Wave Graph" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WHENKEY2007&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</p>
-
-### 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WHENKEY2007&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WHENKEY2007&theme=tokyonight&hide_border=true&border_radius=10" alt="Streak Stats" />
 </p>
 
 ---
