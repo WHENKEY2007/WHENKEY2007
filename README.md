@@ -165,21 +165,13 @@ WHENKEY2007 / README.md ──────────────────�
 - 🏅 **Artificial Intelligence Fundamentals**
 
 
-## 📊 GitHub Statistics & Contribution Heatmap
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=WHENKEY2007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WHENKEY2007&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
-</p>
-
+## 📊 GitHub Contribution Heatmap
 <br>
 
 ### 🔥 365-Day Contribution Heatmap
 
 <p align="center">
-  <a href="https://github.com/WHENKEY2007">
-    <img src="https://ghchart.rshah.org/58a6ff/WHENKEY2007" alt="WHENKEY2007's GitHub Contribution Heatmap" width="100%" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WHENKEY2007&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
 <br>
