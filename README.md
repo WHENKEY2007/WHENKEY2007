@@ -101,12 +101,12 @@ WHENKEY2007 / README.md ──────────────────�
     <td width="50%" valign="top">
       <h3 align="center">🎵 True-Tone</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-      </p>
-      <p>AI-powered music recommendation platform designed to deliver personalized audio experiences leveraging Google Gemini API and modern web architecture.</p>
+  <img src="https://img.shields.io/badge/Python-3.9%2B-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" />
+</p>
+      <p>TrueTone is an AI-powered voice authenticity detection system that identifies whether an audio clip is real or AI-generated. It analyzes speech patterns, tone variations, and audio characteristics using machine learning techniques to improve trust and security in digital communication.</p>
       <p align="center">
         <a href="https://github.com/WHENKEY2007/True-Tone"><b>🔗 View Repository »</b></a>
       </p>
@@ -128,11 +128,13 @@ WHENKEY2007 / README.md ──────────────────�
     <td width="50%" valign="top">
       <h3 align="center">⚖️ Lens of Judgement</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/AI--ML-FF6F00?style=flat-square" />
-        <img src="https://img.shields.io/badge/Deep_Learning-007ACC?style=flat-square" />
-      </p>
-      <p>AI-powered intelligent evaluation platform designed to analyze patterns, assess complex datasets, and deliver automated decision insights.</p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/TMDB-01D277?style=flat-square&logo=themoviedatabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+</p>
+      <p>A full-stack movie review and rating platform where users can rate, review, and share their opinions on movies using a unique 4-tier rating system.</p>
       <p align="center">
         <a href="https://github.com/WHENKEY2007"><b>🔗 View Repository »</b></a>
       </p>
