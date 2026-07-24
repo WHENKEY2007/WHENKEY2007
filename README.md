@@ -1,188 +1,213 @@
-
 <div align="center">
 
 # Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Sri Venkatesh
 
-### AI & Machine Learning Student • Full Stack Developer • Open Source Enthusiast
+### 🤖 AI & Machine Learning Student • 💻 Full Stack Developer • 🚀 Open Source Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+%26+Machine+Learning;Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Python+%7C+Java+%7C+C%2B%2B;Hackathon+Builder;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+%26+Machine+Learning;Full+Stack+Developer+%7C+React+%2B+Node.js;Python+%7C+Java+%7C+C%2B%2B+%7C+SQL;Hackathon+Builder+%26+Problem+Solver;Red+Hat+Certified+System+Administrator+(RHCSA)" />
 
-<br><br>
+<br>
 
-<p align="center">
-  <img src="./assets/fastfetch.png" width="700" alt="ASCII Portrait">
+[![GitHub](https://img.shields.io/badge/GitHub-WHENKEY2007-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WHENKEY2007)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sri_Venkatesh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sri-venkatesh-nurukurthi-709067333/)
+[![Gmail](https://img.shields.io/badge/Gmail-srivenkateshnurukurthi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srivenkateshnurukurthi@gmail.com)
+[![RHCSA](https://img.shields.io/badge/Certification-RHCSA-EE0000?style=for-the-badge&logo=redhat&logoColor=white)](#-certifications)
+
+</div>
+
+<br>
+
+```text
+WHENKEY2007 / README.md ──────────────────────────────────────────────────────────────────────────────────
+
+                  g@M%\%%@N\Nw,.                sri@venkatesh ────────────────────────────────────────────
+              ,M*`|`*%gNM=]mM%g||N,             . OS: ............................................. Windows 11, Linux, Android
+             p!`|`!'""|jhlj%w                   . Education: ................ B.Tech Artificial Intelligence & Machine Learning
+            @L           '`!|j%M]%M             . Role: ........................... AI & ML Student | Full Stack Developer
+          jj` .,wp@pw,        '""%Wg            . Focus: ........................ AI/ML Models, Deep Learning, System Design
+        /{||]00000000pp.            ||||        . IDE: ............................................... VS Code, PyCharm
+       '`]0000000000000p                        
+      `:]%%%%%%%k%h '*||mkr                     . Languages.Programming: ................. Python, Java, C++, C, JavaScript
+     `j%M'     |jkk' ~nrn=i                     . Languages.Computer: .................... HTML, CSS, SQL, JSON, Markdown
+    ! jrr*^          '"! L'':!                  . Frameworks.Web: ................................ React, Node.js, Express
+   j  lp;,. ./ @@     ,:\nmy   `                . Frameworks.AI/ML: ............................ Scikit-learn, Pandas, NumPy
+  i r @000mMHM @000  ****M*,p  ,.               . Databases: ................................ MongoDB, PostgreSQL, MySQL
+ |]0000HHH]g@M%%%%H,jmgpmb%  j                  
+.:%%%%%k%@[..n,];j%%k%k|%k%]                    . Hobbies.Software: .................... Hackathon Building, Open Source, AI
+ H|%%k%%%j%k||,,:j:||%ij}@0                     . Hobbies.Hardware: ................. Systems Administration, Linux (RHCSA)
+ "djjmkL,"]] [...,wwxw;|kjk`                    
+   %;km%%%%M%M\%jjkii|||[                       - Contact ----------------------------------------------------------------
+    kjj%%kkkl|!|||||j|||'                       . Email.Personal: ................. srivenkateshnurukurthi@gmail.com
+    |jm%H@@@b%%kmk%i!|[                         . LinkedIn: ...................... sri-venkatesh-nurukurthi-709067333
+    @p|j%%%%jkk|||j*' ;j                        . GitHub: ................................................ WHENKEY2007
+   @]000g'        .,j%k                         
+   @0000mgmp;...:jj%%k%                         - GitHub Stats & Highlights ----------------------------------------------
+  @0000000%kgki!jjjj%k%@                        . Certifications: .............. RHCSA, MongoDB CRUD, AI Fundamentals
+..^['' @000HH^b%k{illljkjj%%%% ; `,.`           . Key Projects: ................. True-Tone, FraudCoreML, AI Travel Assistant
+=[''  .HH%%%%H@gkilljj%kk'.      `i             . Quote: ..................... "Half of my bugs disappear after restarting"
+```
+
+---
+
+## 🚀 About Me
+
+<img align="right" width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Developer GIF">
+
+- 🎓 **Education:** Pursuing B.Tech in Artificial Intelligence & Machine Learning.
+- 💡 **Interests:** Deeply passionate about AI/ML models, scalable Web Applications, and System Architecture.
+- 🌱 **Currently Learning:** Deep Learning, Spring Boot, System Design, and Advanced Data Structures & Algorithms.
+- 🏆 **Hackathons:** Active hackathon participant, building AI-powered real-world solutions under tight deadlines.
+- 🎯 **Career Goal:** Software Engineer specializing in Artificial Intelligence & Full-Stack Development.
+- ⚡ **Fun Fact:** *Half of my bugs disappear after restarting VS Code 😭*
+
+<br>
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### 🗣️ Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css" alt="Languages" />
+</p>
+
+### 🌐 Frontend & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express" alt="Web Technologies" />
+</p>
+
+### 🛢️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" alt="Databases" />
+</p>
+
+### 🛠️ Tools & Environments
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,redhat,linux" alt="Tools" />
 </p>
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 🚀 Featured Projects
 
-<img align="right" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
-
-🎓 **B.Tech Artificial Intelligence & Machine Learning Student**
-
-💻 Passionate about AI, Machine Learning and Full Stack Development
-
-🌱 Currently Learning
-
-- Machine Learning
-- Deep Learning
-- Spring Boot
-- System Design
-- Advanced DSA
-
-🏆 Active Hackathon Participant
-
-🚀 Building AI-powered real-world applications
-
-🎯 **Goal**
-
-Become a Software Engineer specializing in AI & Full Stack Development.
-
-⚡ **Fun Fact**
-
-> Half of my bugs disappear after restarting VS Code 😭
-
-<br><br><br>
-
----
-
-# 💻 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js"/>
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🎵 True-Tone</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+      </p>
+      <p>AI-powered music recommendation platform designed to deliver personalized audio experiences leveraging Google Gemini API and modern web architecture.</p>
+      <p align="center">
+        <a href="https://github.com/WHENKEY2007/True-Tone"><b>🔗 View Repository »</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛡️ FraudCoreML</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      </p>
+      <p>Machine Learning-based Fraud Detection System trained to analyze patterns and detect anomalous financial transactions in real-time.</p>
+      <p align="center">
+        <a href="https://github.com/WHENKEY2007"><b>🔗 View Repository »</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌍 AI Smart City Travel Assistant</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/NLP-FF6F00?style=flat-square" />
+        <img src="https://img.shields.io/badge/Predictive_Analytics-007ACC?style=flat-square" />
+      </p>
+      <p>NLP-powered intelligent travel assistant providing predictive route analytics and tailored city navigation for smart urban travel.</p>
+      <p align="center">
+        <a href="https://github.com/WHENKEY2007"><b>🔗 View Repository »</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎓 Course Recommendation System</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      </p>
+      <p>High-performance course recommendation algorithm implemented in C++ backed by a PostgreSQL database for fast queries.</p>
+      <p align="center">
+        <a href="https://github.com/WHENKEY2007"><b>🔗 View Repository »</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-# 🚀 Featured Projects
+## 📜 Certifications
 
-## 🎵 True-Tone
-AI-powered music recommendation platform built using React, Node.js, Express, MongoDB and Gemini API.
-
-🔗 https://github.com/WHENKEY2007/True-Tone
-
----
-
-## 🛡 FraudCoreML
-Machine Learning based Fraud Detection System.
-
-**Tech:** Python • Scikit-learn • Pandas
+- 🏅 **Red Hat Certified System Administrator (RHCSA)**
+- 🏅 **MongoDB CRUD Operations Certification**
+- 🏅 **Artificial Intelligence Fundamentals**
 
 ---
 
-## 🌍 AI Smart City Travel Assistant
-NLP-powered travel assistant using predictive analytics.
-
----
-
-## 🎓 Course Recommendation System
-
-Recommendation System using C++ and PostgreSQL.
-
----
-
-# 📊 GitHub Statistics
+## 🏆 GitHub Trophies
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=WHENKEY2007&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WHENKEY2007&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=WHENKEY2007&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=WHENKEY2007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WHENKEY2007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=WHENKEY2007&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WHENKEY2007&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</p>
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WHENKEY2007&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🌐 Connect With Me
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=WHENKEY2007&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  <a href="https://github.com/WHENKEY2007">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sri-venkatesh-nurukurthi-709067333/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:srivenkateshnurukurthi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
 
----
-
-# 📈 Contribution Graph
+<br>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=WHENKEY2007&theme=tokyo-night"/>
-</p>
-
----
-
-# 📚 Currently Learning
-
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Spring Boot
-- Data Structures & Algorithms
-
----
-
-# 📜 Certifications
-
-- 🏅 Red Hat Certified System Administrator (RHCSA)
-- 🏅 MongoDB CRUD Operations
-- 🏅 Artificial Intelligence Fundamentals
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/WHENKEY2007">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sri-venkatesh-nurukurthi-709067333/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:srivenkateshnurukurthi@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=WHENKEY2007&label=Profile+Views&color=58A6FF&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=WHENKEY2007&label=Profile+Views&color=58A6FF&style=flat" alt="Profile Views"/>
 </p>
 
 <h3 align="center">
-
-💙 Building intelligent solutions, one commit at a time.
-
+  💙 Building intelligent solutions, one commit at a time.
 </h3>
