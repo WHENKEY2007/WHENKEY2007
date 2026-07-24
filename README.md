@@ -20,31 +20,33 @@
 ```text
 WHENKEY2007 / README.md ──────────────────────────────────────────────────────────────────────────────────
 
-      .::=#@@*-=                         .       sri@venkatesh ────────────────────────────────────────────
-    .#@@@@@@@@@@@@-                              . OS: ............................................. Windows 11, Linux, Android
-..-#@@@@@@@@@@@@@@@@                             . Education: ................ B.Tech Artificial Intelligence & Machine Learning
- #@@@@@@@@@@@@@@@@@@.                            . Role: ........................... AI & ML Student | Full Stack Developer
- @@@@@@@@@@@@@@@@@@@.                            . Focus: ........................ AI/ML Models, Deep Learning, System Design
- .@@@@@@+:. :-    #@+                            . IDE: ............................................... VS Code, PyCharm
-   @@-        :-:. @@                            
-   +@  .::   -:-*.  :                            . Languages.Programming: ................. Python, Java, C++, C, JavaScript
-    +.==+@.                                      . Languages.Computer: .................... HTML, CSS, SQL, JSON, Markdown
-     .                                           . Frameworks.Web: ................................ React, Node.js, Express
-                    -                            . Frameworks.AI/ML: ............................ Scikit-learn, Pandas, NumPy
-           -+:+::  .#                            . Databases: ................................ MongoDB, PostgreSQL, MySQL
-          **. .:.. @+-#                          
-        :::       @@ =@@                         . Hobbies.Software: .................... Hackathon Building, Open Source, AI
-         .@+-:.*@-= -@@@@@*                      . Hobbies.Hardware: ................. Systems Administration, Linux (RHCSA)
-       =@@@@ @@#  .@@@@@@@@@@@=                  
-   .@@@@@@@- .    @@@@@@@@@@@@@@@@@+.            - Contact ----------------------------------------------------------------
-  :@@@@@@@+       +@@@@@@@@@@@@@@@@@@@@*.        . Email.Personal: ................. srivenkateshnurukurthi@gmail.com
-  @@@@@@@.        .@@@@@@@@@@@@@@@@@@@@@@@@      . LinkedIn: ...................... sri-venkatesh-nurukurthi-709067333
- =@@@@@@@         .@@@@@@@@@@@@@@@@@@@@@@@@@+    . GitHub: ................................................ WHENKEY2007
- @@@@@@@           @@@@@@@@@@@@@@@@@@@@@@@@@@    
-+@@@@@@+       .  @@@@@@@@@@@@@@@@@@@@@@@@@@@    - Highlights -------------------------------------------------------------
-@@@@@@@       .-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    . Certifications: .............. RHCSA, MongoDB CRUD, AI Fundamentals
-@@@@@@- . ...#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    . Key Projects: ................. True-Tone, FraudCoreML, AI Travel Assistant
-@@@@@@*+=++:@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    . Quote: ..................... "Half of my bugs disappear after restarting"
+          :=*+.                             :.      sri@venkatesh ────────────────────────────────────────────────────────────
+     %@@@@@@@@@@@@+                                 . OS: ............................................. Windows 11, Linux, Android
+.  %@@@@@@@@@@@@@@@@@                               . Education: ................ B.Tech Artificial Intelligence & Machine Learning
+:@@@@@@@@@@@@@@@@@@@@+ -::.....                     . Role: ........................... AI & ML Student | Full Stack Developer
++@@@@@@@@@@@@@@@@@@@@@                              . Focus: ........................ AI/ML Models, Deep Learning, System Design
+*@@@@@@@@@@@@@@@.+@@@@                              . IDE: ............................................... VS Code, PyCharm
+  @@@@@#=           @@                              
+   @@        .@@@@S  @                              . Languages.Programming: ................. Python, Java, C++, C, JavaScript
+   @@ .*@@#  :@ %@-  * .                            . Languages.Computer: .................... HTML, CSS, SQL, JSON, Markdown
+    @ @@*@@                                         . Frameworks.Web: ................................ React, Node.js, Express
+    =.               .=                             . Frameworks.AI/ML: ............................ Scikit-learn, Pandas, NumPy
+     :        .      +*                             . Databases: ................................ MongoDB, PostgreSQL, MySQL
+      :     @%@@*%   @                              
+       +  %@@  -%@@ #@ @                            . Hobbies.Software: .................... Hackathon Building, Open Source, AI
+        @%#.  =:   @@: @@.                          . Hobbies.Hardware: ................. Systems Administration, Linux (RHCSA)
+          *+    -@@@- S@@@@@.                       
+         @@@*@@@@:  .@@@@@@@@@@*                    - Contact ----------------------------------------------------------------
+    +@@@@@@@  @+   @@@@@@@@@@@@@@@@*:.              . Email.Personal: ................. srivenkateshnurukurthi@gmail.com
+  =@@@@@@@@S     . @@@@@@@@@@@@@@@@@@@@@@#          . LinkedIn: ...................... sri-venkatesh-nurukurthi-709067333
+  @@@@@@@@.         @@@@@@@@@@@@@@@@@@@@@@@@@@.     . GitHub: ................................................ WHENKEY2007
+ @@@@@@@@        :  @@@@@@@@@@@@@@@@@@@@@@@@@@@     
+:@@@@@@@@           @@@@@@@@@@@@@@@@@@@@@@@@@@@@    - Highlights -------------------------------------------------------------
+@@@@@@@@      ..    @@@@@@@@@@@@@@@@@@@@@@@@@@@@    . Certifications: .............. RHCSA, MongoDB CRUD, AI Fundamentals
+@@@@@@@S      ... .@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    . Key Projects: ................. True-Tone, FraudCoreML, AI Travel Assistant
+@@@@@@@     ..  %@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    . Quote: ..................... "Half of my bugs disappear after restarting"
+@@@@@@. :..- :@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    
+@@@@@@S#*##**@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    
 ```
 
 ---
