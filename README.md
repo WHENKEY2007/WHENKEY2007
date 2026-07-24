@@ -167,11 +167,8 @@ WHENKEY2007 / README.md ──────────────────�
 
 ## 📊 GitHub Contribution Heatmap
 <br>
-
-### 🔥 365-Day Contribution Heatmap
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WHENKEY2007&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  <img src="https://raw.githubusercontent.com/WHENKEY2007/WHENKEY2007/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 <br>
