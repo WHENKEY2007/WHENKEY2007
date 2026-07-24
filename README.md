@@ -120,7 +120,7 @@ WHENKEY2007 / README.md ──────────────────�
       </p>
       <p>Machine Learning-based Fraud Detection System trained to analyze patterns and detect anomalous financial transactions in real-time.</p>
       <p align="center">
-        <a href="https://github.com/WHENKEY2007"><b>🔗 View Repository »</b></a>
+        <a href="https://github.com/WHENKEY2007/FraudCore"><b>🔗 View Repository »</b></a>
       </p>
     </td>
   </tr>
@@ -136,18 +136,21 @@ WHENKEY2007 / README.md ──────────────────�
 </p>
       <p>A full-stack movie review and rating platform where users can rate, review, and share their opinions on movies using a unique 4-tier rating system.</p>
       <p align="center">
-        <a href="https://github.com/WHENKEY2007"><b>🔗 View Repository »</b></a>
+        <a href="https://github.com/WHENKEY2007/lens-of-judgment-app"><b>🔗 View Repository »</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎓 Course Recommendation System</h3>
+      <h3 align="center">🎓 HarvestLink</h3>
+     <p align="center">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white" />
+    <img src="https://img.shields.io/badge/Responsive-Design-00C853?style=flat-square&logo=googlechrome&logoColor=white" />
+</p>
+      <p>HarvestLink AI is a premium digital connection hub that empowers farmers to manage crop listings, track incoming enquiries, analyze market trends, and leverage real-time AI-powered advisory features.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      </p>
-      <p>High-performance course recommendation algorithm implemented in C++ backed by a PostgreSQL database for fast queries.</p>
-      <p align="center">
-        <a href="https://github.com/WHENKEY2007"><b>🔗 View Repository »</b></a>
+        <a href="https://github.com/WHENKEY2007/HarvestLink"><b>🔗 View Repository »</b></a>
       </p>
     </td>
   </tr>
