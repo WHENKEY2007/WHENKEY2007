@@ -2,7 +2,7 @@
 
 # Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Sri Venkatesh
 
-### 🤖 AI & Machine Learning Student • 💻 Full Stack Developer • 🚀 Open Source Enthusiast
+### 🤖 AI & Machine Learning Student • 💻 Full Stack Developer • 🚀 Open Source Enthusiastic
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+%26+Machine+Learning;Full+Stack+Developer+%7C+React+%2B+Node.js;Python+%7C+Java+%7C+C%2B%2B+%7C+SQL;Hackathon+Builder+%26+Problem+Solver;Red+Hat+Certified+System+Administrator+(RHCSA)" />
 
