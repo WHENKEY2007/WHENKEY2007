@@ -94,7 +94,7 @@ WHENKEY2007 / README.md ──────────────────�
 
 ---
 
-## 🚀 Featured Projects
+## Featured projects
 
 <table>
   <tr>
