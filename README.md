@@ -60,7 +60,7 @@ WHENKEY2007 / README.md ──────────────────�
 - 🌱 **Currently Learning:** Deep Learning, Spring Boot, System Design, and Advanced Data Structures & Algorithms.
 - 🏆 **Hackathons:** Active hackathon participant, building AI-powered real-world solutions under tight deadlines.
 - 🎯 **Career Goal:** Software Engineer specializing in Artificial Intelligence & Full-Stack Development.
-- ⚡ **Fun Fact:** *Half of my bugs disappear after restarting VS Code 😭*
+- ⚡ **Fun Fact:** *Half of my bugs disappear after restarting VS code 😭*
 
 <br>
 
